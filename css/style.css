@@ -12,7 +12,9 @@ img{
     clear: both;
 }
 .container{
-    max-width: 80%;
+    width: 80%;
+    margin: auto;
+    
 }
 
 /* first section style */
@@ -64,7 +66,51 @@ img{
 /* ! first section style */
 
 /* second section style*/
-.container{
-    background-color: #E55473;
+.container h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    
+    
+}
+.heading p{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1opx;
+    
+}
+
+.item img{
+    height: 200px;
+    width: 150px;
+    margin-top: 40px;
+}
+
+.item {
+    float: left;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.item-a{
+    width: 30%;
+    background-color: blanchedalmond;
+    
+
+}
+.item-c{
+ width: 30%;
+ background-color: beige;
+}
+
+.item-b{
+   
+    width: 40%;
+    background-color: aliceblue;
+    
+    
+}
+.item h6{
+    text-decoration: underline;
 }
 /* second section style ens*/
