@@ -243,13 +243,38 @@ img{
     width: 200px;
     
 }
-.Scard-a{
+.S-card-a{
     width: 30%;
 }
-.Scard-b{
+.S-card-b{
     width: 40%;
 }
-.Scard-c{
+.S-card-c{
     width: 30%;
 }
 /* seven section style ends */
+
+/* footer section style starts */
+
+.footer{
+    padding: 100px 0;
+    background-color: black;
+    text-align: center;
+}
+.firstSpan{
+    color: #E55473;
+}
+.secondSpan{
+    color: aliceblue;
+    padding-bottom: 20px;
+}
+
+.heads p{
+    color: beige;
+    padding: 10px 0;
+}
+
+.heads h3{
+    color: azure;
+}
+/* footer section style ends */
