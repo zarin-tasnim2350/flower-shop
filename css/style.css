@@ -200,7 +200,15 @@ img{
 
 /* six section style starts */
 .sec-6 {
-   background-image: url("");
+   background-image: url("../pic/Rectangle\ 9.png");
+   padding: 100px 0;
+   text-align: center;
+}
+.sec-6 h1{
+    padding: 20px 0;
 }
 
+.sec-6 p{
+    padding-bottom: 20px;
+}
 /* six section style ends */
