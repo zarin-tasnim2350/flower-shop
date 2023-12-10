@@ -211,4 +211,45 @@ img{
 .sec-6 p{
     padding-bottom: 20px;
 }
+.form-div input{
+    padding: 20px 10px;
+}
+.form-div button{
+    padding: 20px 5px;
+    background-color: #E55473;
+}
 /* six section style ends */
+
+/* seven section style starts */
+.sec-7{
+    padding: 70px 0;
+}
+.head{
+    text-align: center;
+}
+.head h1{
+    padding: 20px 0;
+}
+.head p{
+    padding-bottom:20px ;
+}
+.sevenItems{
+    float: left;
+    text-align: center;
+    background-color: rgb(216, 238, 130);
+}
+.sevenItems img{
+    height: 250px;
+    width: 200px;
+    
+}
+.Scard-a{
+    width: 30%;
+}
+.Scard-b{
+    width: 40%;
+}
+.Scard-c{
+    width: 30%;
+}
+/* seven section style ends */
