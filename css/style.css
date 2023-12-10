@@ -73,24 +73,28 @@ img{
     
     
 }
+.sec-2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 .heading p{
     margin-top: 10px;
     text-align: center;
     font-size: 1opx;
-    
+    margin-bottom: 40px;
 }
 
 .item img{
-    height: 200px;
-    width: 150px;
+    height: 300px;
+    width: 250px;
     margin-top: 40px;
 }
 
 .item {
     float: left;
     text-align: center;
-    margin-top: 40px;
-    margin-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 50px;
 }
 .item-a{
     width: 30%;
@@ -114,3 +118,89 @@ img{
     text-decoration: underline;
 }
 /* second section style ens*/
+
+/* third section style starts */
+
+.sec-3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.items{
+    float:left ;
+    text-align: center;
+    background-color: #BEE49D;
+    padding: 30px 0;
+}
+.items-a{
+    width: 30%;
+    
+
+}
+.items-b{
+    width:40%
+}
+.items-c{
+    width: 30%;
+}
+.sec-3 h3{
+    padding: 10px 0;
+}
+/* third section style ends */
+
+/* fourth section style starts*/
+.sec-4{
+    padding: 60px 0;
+}
+.sec-4item{
+    float: left;
+    
+}
+.Fitem-a{
+    width: 65%;
+    padding-top: 50px;
+    text-align: center;
+}
+.Fitem-b{
+    width: 35%;
+}
+
+.Fitem-a h2{
+    padding: 20px 0;
+}
+.Fitem-a p{
+    padding: 20px 0;
+}
+.Fitem-a button{
+    padding: 15px 30px;
+    background-color: #E55473;
+}
+
+
+/* fourth section style ends */
+
+/* fifth section style starts */
+.sec-5{
+    padding: 50px 0;
+
+}
+.heading-part5 p{
+    text-align: center;
+    padding: 15px 0;
+}
+
+.five-cards{
+    float: left;
+    width: 25%;
+}
+
+
+
+
+/* fifth section style ends */
+
+/* six section style starts */
+.sec-6 {
+    background-image:;
+}
+
+/* six section style ends */
